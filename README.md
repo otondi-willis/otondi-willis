@@ -1,14 +1,25 @@
-<div align="center">
-    [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/willis-o-otondi-532271106/)](https://www.linkedin.com/in/willis-o-otondi-532271106/)
+<p align="center">
+    <a href="https://www.linkedin.com/in/willis-o-otondi-532271106/">
+        <img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white" alt="LinkedIn Badge">
+    </a>
     &nbsp;&nbsp;
-    [![GitHub followers](https://img.shields.io/github/followers/otondi-willis?label=Follow&style=social)](https://github.com/otondi-willis/?tab=follow)
+    <a href="https://github.com/otondi-willis/?tab=follow">
+        <img src="https://img.shields.io/github/followers/otondi-willis?label=Follow&style=social" alt="GitHub Followers Badge">
+    </a>
     &nbsp;&nbsp;
-    [![Twitter Badge](https://img.shields.io/badge/-@WillisOtondi-1ca0f1?style=flat-square&logo=twitter&logoColor=white&link=https://twitter.com/WillisOtondi)](https://twitter.com/WillisOtondi)
+    <a href="https://twitter.com/WillisOtondi">
+        <img src="https://img.shields.io/badge/-@WillisOtondi-1ca0f1?style=flat-square&logo=twitter&logoColor=white" alt="Twitter Badge">
+    </a>
     &nbsp;&nbsp;
-    [![IEEE Badge](https://img.shields.io/badge/-IEEE-00629B?style=flat-square&logo=ieee&logoColor=white&link=https://www.ieee.org)](https://www.ieee.org)
+    <a href="https://www.ieee.org">
+        <img src="https://img.shields.io/badge/-IEEE-00629B?style=flat-square&logo=ieee&logoColor=white" alt="IEEE Badge">
+    </a>
     &nbsp;&nbsp;
-    [![IEEE EMBS Badge](https://img.shields.io/badge/-IEEE_EMBS-1ca0f1?style=flat-square&logo=ieee&logoColor=white&link=https://www.embs.org)](https://www.embs.org)
-</div>
+    <a href="https://www.embs.org">
+        <img src="https://img.shields.io/badge/-IEEE_EMBS-1ca0f1?style=flat-square&logo=ieee&logoColor=white" alt="IEEE EMBS Badge">
+    </a>
+</p>
+
 
 Hi there, I'm Willis Otondi. <br/>
 
