@@ -14,7 +14,7 @@
 
 ## My Projects
 
-- [Project 1](https://github.com/yourusername/project1): Brief description of project 1.
+- [Project 1](https://github.com/otondi-willis/GitTuitorial.git): Brief description of project 1.
 - [Project 2](https://github.com/yourusername/project2): Brief description of project 2.
 - ...
 
