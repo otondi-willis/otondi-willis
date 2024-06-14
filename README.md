@@ -1,7 +1,9 @@
 Hi there, I'm Willis Otondi. <br/>
+
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/willis-o-otondi-532271106/)](https://www.linkedin.com/in/willis-o-otondi-532271106/)
 [![GitHub followers](https://img.shields.io/github/followers/otondi-willis?label=Follow&style=social)](https://github.com/otondi-willis/?tab=follow)
-[![Twitter Badge](https://img.shields.io/badge/-@WillisOtondi-1ca0f1?style=flat-square&logo=twitter&logoColor=white&link=https://twitter.com/WillisOtondi)](https://twitter.com/WillisOtondi) <br/>
+[![Twitter Badge](https://img.shields.io/badge/-@WillisOtondi-1ca0f1?style=flat-square&logo=twitter&logoColor=white&link=https://twitter.com/WillisOtondi)](https://twitter.com/WillisOtondi) 
+[![IEEE EMBS Badge](https://img.shields.io/badge/-IEEE_EMBS-1ca0f1?style=flat-square&logo=ieee&logoColor=white&link=https://www.embs.org)](https://www.embs.org) <br/>
 
 ## About Me
 
@@ -10,6 +12,11 @@ Hi there, I'm Willis Otondi. <br/>
 - 🤔 I’m looking for help with Software Architect publications, good shortcourses on the same and recommended practices on the same  field.
 - 💬 Ask me about Biomedical Engineering related solutions, Team Leadership insights and Healthcare Technologies
 - 📫 How to reach me: [otondi.willise@gmail.com] <br/>
+
+## Professional Highlights
+- 🩺 Clinical Engineer: Leveraging cutting-edge technology to improve healthcare outcomes.
+- 💻 Software Developer: Creating innovative solutions to address complex problems in the clinical engineering field.
+- 🌟 IEEE-EMBS Brand Ambassador: Promoting excellence and innovation within the engineering community as a proud member of the IEEE Engineering in Medicine and Biology Society. <br/>
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=otondi-willis&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false)<br/>
