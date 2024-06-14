@@ -1,5 +1,7 @@
 Hi there, I'm Willis Otondi.
-
+[![Linkedin Badge](https://img.shields.io/badge/-otondi-willis-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/otondi-willis/)](https://www.linkedin.com/in/otondi-willis/)
+[![GitHub followers](https://img.shields.io/github/followers/otondi-willis?label=Follow&style=social)](https://github.com/otondi-willis/?tab=follow)
+[![Twitter Badge](https://img.shields.io/badge/-@otondi-willis-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/otondi-willis)](https://twitter.com/otondi-willis)
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=otondi-willis&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false)<br/>
