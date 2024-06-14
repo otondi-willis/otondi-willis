@@ -1,8 +1,13 @@
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/willis-o-otondi-532271106/)](https://www.linkedin.com/in/willis-o-otondi-532271106/)  
-[![GitHub followers](https://img.shields.io/github/followers/otondi-willis?label=Follow&style=social)](https://github.com/otondi-willis/?tab=follow)  
-[![Twitter Badge](https://img.shields.io/badge/-@WillisOtondi-1ca0f1?style=flat-square&logo=twitter&logoColor=white&link=https://twitter.com/WillisOtondi)](https://twitter.com/WillisOtondi)  
-[![IEEE Badge](https://img.shields.io/badge/-IEEE-00629B?style=flat-square&logo=ieee&logoColor=white&link=https://www.ieee.org)](https://www.ieee.org)  
-[![IEEE EMBS Badge](https://img.shields.io/badge/-IEEE_EMBS-1ca0f1?style=flat-square&logo=ieee&logoColor=white&link=https://www.embs.org)](https://www.embs.org) <br/> 
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/willis-o-otondi-532271106/)](https://www.linkedin.com/in/willis-o-otondi-532271106/) 
+&nbsp;&nbsp;
+[![GitHub followers](https://img.shields.io/github/followers/otondi-willis?label=Follow&style=social)](https://github.com/otondi-willis/?tab=follow) 
+&nbsp;&nbsp;
+[![Twitter Badge](https://img.shields.io/badge/-@WillisOtondi-1ca0f1?style=flat-square&logo=twitter&logoColor=white&link=https://twitter.com/WillisOtondi)](https://twitter.com/WillisOtondi) 
+&nbsp;&nbsp;
+[![IEEE Badge](https://img.shields.io/badge/-IEEE-00629B?style=flat-square&logo=ieee&logoColor=white&link=https://www.ieee.org)](https://www.ieee.org) 
+&nbsp;&nbsp;
+[![IEEE EMBS Badge](https://img.shields.io/badge/-IEEE_EMBS-1ca0f1?style=flat-square&logo=ieee&logoColor=white&link=https://www.embs.org)](https://www.embs.org)  
+ <br/> 
 
 
 Hi there, I'm Willis Otondi. <br/>
