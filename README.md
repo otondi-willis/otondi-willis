@@ -1,5 +1,5 @@
 Hi there, I'm Willis Otondi.
-[![Linkedin Badge](https://img.shields.io/badge/-otondi-willis-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/otondi-willis/)](https://www.linkedin.com/in/otondi-willis/)
+[![Linkedin Badge](https://img.shields.io/badge/-willis-o-otondi-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/willis-o-otondi/)](https://www.linkedin.com/in/willis-o-otondi/)
 [![GitHub followers](https://img.shields.io/github/followers/otondi-willis?label=Follow&style=social)](https://github.com/otondi-willis/?tab=follow)
 [![Twitter Badge](https://img.shields.io/badge/-@otondi-willis-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/otondi-willis)](https://twitter.com/otondi-willis)
 
