@@ -27,7 +27,7 @@ Hi there, I'm Willis Otondi. <br/>
 - 🌱 I’m currently learning Java, Solution Architect and System Design 
 - 👯 I’m looking to collaborate on healthcare and finance related projects
 - 🤔 I’m looking for help with Software Architect publications, good shortcourses on the same and recommended practices on the same  field.
-- 💬 Ask me about Biomedical Engineering related solutions,Technical writing, Team Leadership insights and Healthcare Technologies
+- 💬 Ask me about Biomedical Engineering related solutions,Business Requirement Document Writing,Technical writing, Team Leadership insights and Healthcare Technologies
  <br/>
 
 # 📊 GitHub Stats:
