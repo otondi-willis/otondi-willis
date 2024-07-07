@@ -20,25 +20,23 @@
     </a>
 </p>
 
-
 Hi there, I'm Willis Otondi. <br/>
 
 ## About Me
 - 🌱 I’m currently learning Java, Solution Architect and System Design 
 - 👯 I’m looking to collaborate on healthcare and finance related projects
-- 🤔 I’m looking for help with Software Architect publications, good shortcourses on the same and recommended practices on the same  field.
-- 💬 Ask me about Biomedical Engineering related solutions,Business Requirement Document Writing, Solution Design Documentation,Technical writing, Team Leadership insights and Healthcare Technologies
- <br/>
+- 🤔 I’m looking for help with Software Architect publications, good shortcourses on the same and recommended practices on the same field.
+- 💬 Ask me about Biomedical Engineering related solutions, Business Requirement Document Writing, Solution Design Documentation, Technical writing, Team Leadership insights, and Healthcare Technologies
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=otondi-willis&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=otondi-willis&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=otondi-willis&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact) <br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=otondi-willis&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
 ## Professional Highlights
 - 🩺 Clinical Engineer: Leveraging cutting-edge technology to improve healthcare outcomes.
 - 💻 Software Developer: Creating innovative solutions to address complex problems in the clinical engineering field.
-- 🌟 IEEE-EMBS Brand Ambassador: Promoting excellence and innovation within the engineering community as a proud member of the IEEE Engineering in Medicine and Biology Society. <br/>
+- 🌟 IEEE-EMBS Brand Ambassador: Promoting excellence and innovation within the engineering community as a proud member of the IEEE Engineering in Medicine and Biology Society.
 
 ## My Projects
 - [WebTuit](https://github.com/otondi-willis/W3BSITEbro-001..git): Brief description of project 1.
@@ -48,4 +46,3 @@ Hi there, I'm Willis Otondi. <br/>
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=otondi-willis&theme=radical&no-frame=false&no-bg=true&margin-w=4)
-
