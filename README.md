@@ -30,13 +30,9 @@ Hi there, I'm Willis Otondi. <br/>
 - 💬 Ask me about Biomedical Engineering related solutions, Business Requirement Document Writing, Solution Design Documentation, Technical writing, Team Leadership insights, and Healthcare Technologies
 
 # 📊 GitHub Stats:
-<p>
-<img src="https://github-readme-stats.vercel.app/api?username=otondi-willis&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=false&layout=compact" width="500" height="300"> 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=otondi-willis&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact" width="400" height="300"> 
-</p>
-<p>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=otondi-willis&theme=dark&hide_border=false&layout=compact" width="900" height="300"> 
-</p>
+![](https://github-readme-stats.vercel.app/api?username=otondi-willis&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=otondi-willis&theme=dark&hide_border=false&timestamp=20240707)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=otondi-willis&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
 ## Professional Highlights
 - 🩺 Clinical Engineer: Leveraging cutting-edge technology to improve healthcare outcomes.
