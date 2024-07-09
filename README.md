@@ -31,8 +31,9 @@ Hi there, I'm Willis Otondi. <br/>
 
 # 📊 GitHub Stats:
 <p align="center">
-  <img width="400" height="250" src="https://github-readme-stats.vercel.app/api?username=otondi-willis&show_icons=true&theme=vision-friendly-dark">
-  <img width="400" height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=otondi-willis&size_weight=0.0005&count_weight=0.3&layout=compact&theme=vision-friendly-dark">
+  <img width="400" height="200" src="https://github-readme-stats.vercel.app/api?username=otondi-willis&show_icons=true&layout=compact&theme=vision-friendly-dark">
+  <img width="400" height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=otondi-willis&layout=compact&theme=vision-friendly-dark">
+  
 </p>
 <div id="header" align="center"><img src="https://komarev.com/ghpvc/?username=otondi-willis&style=for-the-badge&color=F2931E" alt=""/></div>
 <p align="center">
