@@ -1,3 +1,4 @@
+<div id="header" align="right"><img src="https://komarev.com/ghpvc/?username=otondi-willis&style=for-the-badge&color=blue" alt=""/></div>
 <p align="center">
     <a href="https://www.linkedin.com/in/willis-o-otondi-532271106/">
         <img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white" alt="LinkedIn Badge">
@@ -30,15 +31,13 @@ Hi there, I'm Willis Otondi. <br/>
 - 💬 Ask me about Biomedical Engineering related solutions, Business Requirement Document Writing, Solution Design Documentation, Technical writing, Team Leadership insights, and Healthcare Technologies
 
 # 📊 GitHub Stats:
-<p align="center">
-  <img width="400" height="200" src="https://github-readme-stats.vercel.app/api?username=otondi-willis&show_icons=true&layout=compact&theme=vision-friendly-dark">
-  <img width="400" height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=otondi-willis&layout=compact&theme=vision-friendly-dark">
-  
-</p>
-<div id="header" align="center"><img src="https://komarev.com/ghpvc/?username=otondi-willis&style=for-the-badge&color=F2931E" alt=""/></div>
-<p align="center">
-  <img width="800" height="220" src="https://streak-stats.demolab.com?user=otondi-willis&theme=highcontrast&hide_border=true&border_radius=5&card_width=800">
-</p>
+![](https://github-readme-stats.vercel.app/api?username=otondi-willis&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=otondi-willis&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=otondi-willis&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact) <br/>
+
+
+
+
 
 ## Professional Highlights
 - 🩺 Clinical Engineer: Leveraging cutting-edge technology to improve healthcare outcomes.
@@ -53,4 +52,7 @@ Hi there, I'm Willis Otondi. <br/>
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=otondi-willis&theme=radical&no-frame=false&no-bg=false&margin-w=4)
+
+
+
 
