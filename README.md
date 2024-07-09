@@ -29,9 +29,18 @@ Hi there, I'm Willis Otondi. <br/>
 - 💬 Ask me about Biomedical Engineering related solutions, Business Requirement Document Writing, Solution Design Documentation, Technical writing, Team Leadership insights, and Healthcare Technologies
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=otondi-willis&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=otondi-willis&theme=dark&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=otondi-willis&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+<p align="center">
+  <img width="600" height="200" src="https://github-readme-stats.vercel.app/api?username=otondi-willis&show_icons=true&theme=vision-friendly-dark">
+  <img width="400" height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=otondi-willis&size_weight=0.0005&count_weight=0.3&layout=compact&theme=vision-friendly-dark">
+</p>
+
+<div id="header" align="center">
+  <img src="https://komarev.com/ghpvc/?username=otondi-willis&style=for-the-badge&color=orange" alt=""/>
+</div>
+
+<p align="center">
+  <img width="800" height="220" src="https://streak-stats.demolab.com?user=otondi-willis&theme=highcontrast&hide_border=true&border_radius=5&card_width=800">
+</p>
 
 ## Professional Highlights
 - 🩺 Clinical Engineer: Leveraging cutting-edge technology to improve healthcare outcomes.
@@ -46,3 +55,11 @@ Hi there, I'm Willis Otondi. <br/>
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=otondi-willis&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+
+
+---
+
+
+<p align="center">
+ <img width="1000" src="profileedit/assets/github-snake.svg" alt="snake"/>
+</p>
