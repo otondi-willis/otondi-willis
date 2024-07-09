@@ -18,6 +18,7 @@
     <a href="https://www.embs.org">
         <img src="https://img.shields.io/badge/-IEEE_EMBS-1ca0f1?style=flat-square&logo=ieee&logoColor=white" alt="IEEE EMBS Badge">
     </a>
+  
 </p>
 
 Hi there, I'm Willis Otondi. <br/>
@@ -33,11 +34,7 @@ Hi there, I'm Willis Otondi. <br/>
   <img width="600" height="200" src="https://github-readme-stats.vercel.app/api?username=otondi-willis&show_icons=true&theme=vision-friendly-dark">
   <img width="400" height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=otondi-willis&size_weight=0.0005&count_weight=0.3&layout=compact&theme=vision-friendly-dark">
 </p>
-
-<div id="header" align="center">
-  <img src="https://komarev.com/ghpvc/?username=otondi-willis&style=for-the-badge&color=orange" alt=""/>
-</div>
-
+<div id="header" align="center"><img src="https://komarev.com/ghpvc/?username=otondi-willis&style=for-the-badge&color=F2931E" alt=""/></div>
 <p align="center">
   <img width="800" height="220" src="https://streak-stats.demolab.com?user=otondi-willis&theme=highcontrast&hide_border=true&border_radius=5&card_width=800">
 </p>
@@ -56,10 +53,3 @@ Hi there, I'm Willis Otondi. <br/>
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=otondi-willis&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
-
----
-
-
-<p align="center">
- <img width="1000" src="profileedit/assets/github-snake.svg" alt="snake"/>
-</p>
