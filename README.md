@@ -54,7 +54,7 @@ Hi there, I'm Willis Otondi. <br/>
 - [BasicBankingApp](https://github.com/otondi-willis/hands-on-java-3080245.git): Brief description of project 4.
 
 ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=otondi-willis&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+![](https://github-profile-trophy.vercel.app/?username=otondi-willis&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
 
 ---
