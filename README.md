@@ -34,7 +34,6 @@ Hi there, I'm Willis Otondi. <br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=otondi-willis&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=otondi-willis&theme=dark&hide_border=false&timestamp=20240707)<br/>
 
-
 ## Professional Highlights
 - 🩺 Clinical Engineer: Leveraging cutting-edge technology to improve healthcare outcomes.
 - 💻 Software Developer: Creating innovative solutions to address complex problems in the clinical engineering field.
