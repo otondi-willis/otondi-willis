@@ -20,7 +20,6 @@
         <img src="https://img.shields.io/badge/-IEEE_EMBS-1ca0f1?style=flat-square&logo=ieee&logoColor=white" alt="IEEE EMBS Badge">
     </a> 
 </p>
-
 Hi there, I'm Willis Otondi. <br/>
 
 ## About Me
