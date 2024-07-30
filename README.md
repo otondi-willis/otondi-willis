@@ -39,7 +39,7 @@ Hi there, I'm Willis Otondi. <br/>
 - 🌟 IEEE-EMBS Brand Ambassador: Promoting excellence and innovation within the engineering community as a proud member of the IEEE Engineering in Medicine and Biology Society.
 
 ## My Projects
-- [WebTuit](https://github.com/otondi-willis/W3BSITEbro-001..git): Brief description of project 1.
+- [WebTuit](https://github.com/otondi-willis/W3BSITEbro-001..git): Brief description of web based project.
 - [JavaCalcPro](https://github.com/otondi-willis/JavaProj.git): Brief description of project 2.
 - [GloboFitnessApp](https://github.com/otondi-willis/flutt3r-projects.git): Brief description of project 3.
 - [BasicBankingApp](https://github.com/otondi-willis/hands-on-java-3080245.git): Brief description of project 4.
