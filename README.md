@@ -26,7 +26,7 @@ Hi there, I'm Willis Otondi. <br/>
 - 🌱 I’m currently learning Java(SpringBoot),Flutter(Dart) for cross-platform mobile development, Solution Architect and System Design concepts
 - 👯 I’m looking to collaborate on healthcare and finance related projects
 - 🤔 I’m looking for help with Software Architect publications, transformative shortcourses on the same and recommended practices on the same field.
-- 💬 Ask me about Biomedical Engineering related solutions, Business Requirement Document Writing, Solution Design Documentation, Technical writing, Team Leadership insights, and Healthcare Technologies
+- 💬 Ask me about Biomedical Engineering related solutions, Business Requirement Document Writing, Solution Architecture and Design Documentation, Technical writing, Team Leadership insights, and Healthcare Technologies
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=otondi-willis&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=false) &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp;
