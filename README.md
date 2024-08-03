@@ -36,7 +36,7 @@ Hi there, I'm Willis Otondi. <br/>
 ## Professional Highlights
 - 🩺 Clinical Engineer: Leveraging cutting-edge technology to improve healthcare outcomes.
 - 💻 Software Developer: Creating innovative solutions to address complex problems in the clinical engineering field.
-- 💻 Youth-Mentor in Tech: Driving innovation in the community at large
+- 💻 Youth-Mentor in Tech: Driving innovation in the community at large.
 - 🌟 IEEE-EMBS Brand Ambassador: Promoting excellence and innovation within the engineering community as a proud member of the IEEE Engineering in Medicine and Biology Society.
 
 ## My Projects
