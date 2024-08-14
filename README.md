@@ -43,7 +43,7 @@ Hi there, I'm Willis Otondi. <br/>
 - [WebTuit](https://github.com/otondi-willis/W3BSITEbro-001..git): Brief description of web based project.
 - [JavaCalcPro](https://github.com/otondi-willis/JavaProj.git): Brief description of javascript based project.
 - [GloboFitnessApp](https://github.com/otondi-willis/flutt3r-projects.git): Brief description of flutter project.
-- [BasicBankingApp](https://github.com/otondi-willis/hands-on-java-3080245.git): Brief description of project 4.
+- [BasicBankingApp](https://github.com/otondi-willis/hands-on-java-3080245.git): Brief description of java project.
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=otondi-willis&theme=radical&no-frame=false&no-bg=false&margin-w=4)
