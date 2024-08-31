@@ -4,10 +4,6 @@
         <img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white" alt="LinkedIn Badge">
     </a>
     &nbsp;&nbsp;
-    <a href="https://github.com/otondi-willis/?tab=follow">
-        <img src="https://img.shields.io/github/followers/otondi-willis?label=Follow&style=social" alt="GitHub Followers Badge">
-    </a>
-    &nbsp;&nbsp;
     <a href="https://twitter.com/WillisOtondi">
         <img src="https://img.shields.io/badge/-@WillisOtondi-1ca0f1?style=flat-square&logo=twitter&logoColor=white" alt="Twitter Badge">
     </a>
