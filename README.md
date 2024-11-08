@@ -30,7 +30,7 @@ Hi there, I'm Willis Otondi. <br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=otondi-willis&theme=dark&hide_border=true)<br/>
 
 ## Professional Highlights
-- 🩺 Clinical Engineer: Leveraging cutting-edge technology to improve healthcare outcomes.
+- 🩺 Clinical Engineer: Leveraging cutting-edge technology to improve healthcare outcomes
 - 💻 Software Developer: Creating innovative solutions to address complex problems in the clinical engineering field.
 - 💻 Youth-Mentor in Tech: Driving innovation in the community at large.
 - 🌟 IEEE-EMBS Brand Ambassador: Promoting excellence and innovation within the engineering community as a proud member of the IEEE Engineering in Medicine and Biology Society.
